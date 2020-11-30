@@ -1,0 +1,5 @@
+tensorboard
+torchvision
+torchsummary
+opencv-python
+debugpy
